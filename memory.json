@@ -1,0 +1,46 @@
+[
+  {
+    "topic": "What is Python",
+    "level": "intermediate",
+    "outline_file": "outputs\\outline_20251130T072054Z.md",
+    "lesson_file": "outputs\\lesson_20251130T072054Z.md",
+    "quiz_file": "outputs\\quiz_20251130T072055Z.md"
+  },
+  {
+    "topic": "What is Python",
+    "level": "beginner",
+    "outline_file": "outputs\\outline_20251130T072523Z.md",
+    "lesson_file": "outputs\\lesson_20251130T072523Z.md",
+    "quiz_file": "outputs\\quiz_20251130T072523Z.md"
+  },
+  {
+    "topic": "What is Web Development",
+    "level": "advanced",
+    "outline_file": "outputs\\outline_20251130T073823Z.md",
+    "lesson_file": "outputs\\lesson_20251130T073824Z.md",
+    "quiz_file": "outputs\\quiz_20251130T073824Z.md"
+  },
+  {
+    "topic": "What is Python",
+    "level": "beginner",
+    "difficulty": "medium",
+    "outline_file": "outputs\\outline_20251130T112922Z.md",
+    "lesson_file": "outputs\\lesson_20251130T112922Z.md",
+    "quiz_file": "outputs\\quiz_20251130T112922Z.md"
+  },
+  {
+    "topic": "What is internet",
+    "level": "beginner",
+    "difficulty": "medium",
+    "outline_file": "outputs\\outline_20251130T113047Z.md",
+    "lesson_file": "outputs\\lesson_20251130T113047Z.md",
+    "quiz_file": "outputs\\quiz_20251130T113047Z.md"
+  },
+  {
+    "topic": "What is Python",
+    "level": "beginner",
+    "outline_file": "outputs\\outline_20251130T122134Z.md",
+    "lesson_file": "outputs\\lesson_20251130T122134Z.md",
+    "quiz_file": "outputs\\quiz_20251130T122134Z.md"
+  }
+]

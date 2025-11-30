@@ -1,0 +1,5 @@
+app:
+  name: SmartLearn
+  version: 1.0
+  track: Enterprise Agents
+  description: Multi-agent educational content generator.
